@@ -1,0 +1,12 @@
+main {
+  position: relative;
+  text-align: center;
+  width: 400px;
+  margin: 0 auto;
+  top: 50%;
+  margin-top: -25px;
+}
+
+button:focus {
+  outline: none;
+}
