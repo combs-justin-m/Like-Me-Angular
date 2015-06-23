@@ -1,9 +1,9 @@
-## Welcome to My Repo
+## Like Button
 
-> I am your Readme.md file, you should probably update me.
+> First use of AngularJS to build a simple like button.
 
 
-## Usage
+### Usage
 
 This template contains some simple `gulp` tasks. They are as follows:
 
